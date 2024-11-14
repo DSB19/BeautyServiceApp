@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Beauty Service Application
 
 This project is a comprehensive web application designed to enhance the user experience for salon customers and streamline the management processes for salon administrators. The application addresses several common challenges faced by both customers and salon management by providing efficient solutions.

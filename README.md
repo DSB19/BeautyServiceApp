@@ -52,6 +52,3 @@ This project is a comprehensive web application designed to enhance the user exp
 - **Admin Dashboard:**
 ![Admin Dashboard](images/ADDashboard.png)
 
-=======
-# BeautyServiceApp
->>>>>>> 5bc9eeaf7de6ae201e421560136f2b1baaade160
